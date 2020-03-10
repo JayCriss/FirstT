@@ -442,7 +442,7 @@ http://tvbilive17-i.akamaihd.net/hls/live/624328/CJMandarin5/CJMandarin5-04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",TVB明珠台
 http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1582828454200&di=ceecd9f498db32dac6165ee61532d3a8&imgtype=0&src=http%3A%2F%2Fimgsa.baidu.com%2Fbaike%2Fpic%2Fitem%2Fbd315c6034a85edf82be4ec240540923dd547524.jpg" tvg-country="" tvg-url="" group-title="",TVB翡翠台
-http://pull.scphsd.com/live/b1c2g6d9d98ac8b71btc9e83d80b/playlist.m3u8
+http://pull.scphsd.com/live/b71btc9e83d80b3b1c2g6d9d98ac8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",TVS2
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/LcJZVV5.png" tvg-country="" tvg-url="" group-title="",Xuzhou TV 1 Shanghai
@@ -565,8 +565,6 @@ http://stream.hhek.cn/xwzh/sd/live.m3u8
 http://stream.dybtv.com/yssh/GQ/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",东阳新闻综合
 http://stream.dybtv.com/xwzh/GQ/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",两对夫妇的情事
-https://156zy.suyunbo.tv/2018/07/21/ERc1jhgnYvZXt23Q/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",个旧综合
 http://221.3.215.44:9099/gjtv/gjtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",中国教育1
@@ -629,11 +627,11 @@ http://121.31.30.90:8085/ysten-business/live/yunnanstv/yst.m3u8
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226083/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",云南卫视
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",云南卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Yunnan_TV_logo.png" tvg-country="" tvg-url="" group-title="",云南卫视
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",云南卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226029/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",云南卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Yunnan_TV_logo.png" tvg-country="" tvg-url="" group-title="",云南卫视
 http://ivi.bupt.edu.cn/hls/yntv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",云南卫视
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/yunnanstv/1.m3u8
@@ -687,8 +685,6 @@ http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="qiaoxiangpingdao.png" tvg-country="" tvg-url="" group-title="",侨乡频道
 http://stream.jinjiang.tv/1/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",保姆的目的
-https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png" tvg-country="" tvg-url="" group-title="",信吉电视
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",假面骑士HD
@@ -705,13 +701,11 @@ http://live.china-latv.com/channel2/sd/live.m3u8
 http://live.china-latv.com/channel1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",兵团
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225627/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.tvyan.com/uploads/dianshi/bingtuantv.jpg" tvg-country="" tvg-url="" group-title="",兵团卫视
-http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",兵团卫视
 http://ivi.bupt.edu.cn/hls/bttv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",兵团卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.tvyan.com/uploads/dianshi/bingtuantv.jpg" tvg-country="" tvg-url="" group-title="",兵团卫视
 http://v.btzx.com.cn:1935/live/weishi.stream/chunklist_w846804169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",兵团卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.tvyan.com/uploads/dianshi/bingtuantv.jpg" tvg-country="" tvg-url="" group-title="",兵团卫视
 http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",兵团建设
 http://v.btzx.com.cn:1935/live/news.stream/playlist.m3u8
@@ -897,8 +891,6 @@ http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
 http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",卫视中文台
 http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://nettvss.live/uploads/allimg/20/1-2002251HT80-L.jpg" tvg-country="" tvg-url="" group-title="",印度APB
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://titv.ipcf.org.tw/images/logo.png" tvg-country="" tvg-url="" group-title="",原住民族電視
 https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xmtv1.jpg" tvg-country="" tvg-url="" group-title="",厦视综合
